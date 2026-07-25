@@ -67,7 +67,7 @@
 ## 📫 Connect With Me
 
 - 📧 Email: **parthpatel71791@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/parth-patel-2482a1310/
 - 🐙 GitHub: https://github.com/Parth7179
+<!-- - 💼 LinkedIn: https://www.linkedin.com/in/parth-patel-2482a1310/-->
 
 ---
