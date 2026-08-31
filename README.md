@@ -1,73 +1,89 @@
-<h1 align="center">Hi 👋, I'm Parth Patel</h1>
-<h3 align="center">Third-Year Computer Engineering Student | Learning Full Stack Web Development | C++ & DSA</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Parth7179">
-    <img src="https://img.shields.io/github/followers/Parth7179?label=Followers&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Parth7179&style=for-the-badge" />
-</p>
+# Hey, I'm Parth Patel 👋
 
----
+### Computer Engineering Student · Full Stack Developer in Progress · C++ & DSA
 
-## 🚀 About Me
+<a href="https://github.com/Parth7179">
+  <img src="https://img.shields.io/badge/GitHub-Parth7179-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="mailto:parthpatel71791@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
-- 🎓 Third-Year Computer Engineering student
-- 🌱 Currently learning Full Stack Web Development
-- 💻 Practicing Data Structures & Algorithms in C++
-- 🚀 Building projects to improve my development skills
-- 🎯 Goal: Become a skilled Software Engineer
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## About
+
+I'm a Computer Engineering student who enjoys building things and understanding how they work under the hood.
+
+Right now, I'm focused on becoming a better full stack developer while keeping up consistent practice with data structures and algorithms in C++.
+
+I learn best by building, breaking, debugging, and rebuilding.
+
+```text
+Currently working on     → Full Stack Web Development
+Currently practicing     → DSA in C++
+Currently improving      → Backend, APIs, databases & problem solving
+Long-term direction      → Software Engineering
+```
+
+---
+
+## What I Work With
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Parth7179&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Parth7179&theme=tokyonight" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth7179&layout=compact&theme=tokyonight" />
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## What I'm Learning
 
-- 📧 Email: **parthpatel71791@gmail.com**
-- 🐙 GitHub: https://github.com/Parth7179
-<!-- - 💼 LinkedIn: https://www.linkedin.com/in/parth-patel-2482a1310/-->
+I'm currently going deeper into:
+
+* Building full stack applications with React, Node.js and Express
+* Designing and working with REST APIs
+* MongoDB and backend data modelling
+* Authentication and authorization
+* Writing cleaner, more maintainable JavaScript
+* Data structures and algorithms with C++
 
 ---
+
+## Projects
+
+Most of my repositories are part of the learning process: small experiments, course work, and projects where I try to turn concepts into something usable.
+
+I'm gradually moving from following tutorials to designing and building features on my own.
+
+> Learning by building > learning by collecting certificates.
+
+---
+
+## Let's Connect
+
+**Email:** [parthpatel71791@gmail.com](mailto:parthpatel71791@gmail.com)
+**GitHub:** [github.com/Parth7179](https://github.com/Parth7179)
+
+---
+
+<div align="center">
+  <sub>Still learning. Still building. Still figuring things out.</sub>
+</div>
