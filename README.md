@@ -8,7 +8,7 @@
 <a href="https://github.com/Parth7179">
   <img src="https://img.shields.io/badge/GitHub-Parth7179-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
-<a href="mailto:parthpatel71791@gmail.com">
+<a href="mailto:parthpatel.atwork@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
