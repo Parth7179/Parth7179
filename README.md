@@ -80,7 +80,7 @@ I'm gradually moving from following tutorials to designing and building features
 
 ## Let's Connect
 
-**Email:** [parthpatel71791@gmail.com](mailto:parthpatel71791@gmail.com)
+**Email:** [parthpatel.atwork@gmail.com](mailto:parthpatel.atwork@gmail.com)
 **GitHub:** [github.com/Parth7179](https://github.com/Parth7179)
 
 ---
